@@ -1,7 +1,10 @@
 <!DOCTYPE html>
  <head>
   <meta charaset = utf-8>
+  <script type="text/javascript" src=“sample.js"></script>
  </head>
+ 
+ 
  
  <body>
   <h1>test page</h1>
